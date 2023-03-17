@@ -1,0 +1,7 @@
+C:\Users\Maks\source\repos\lab4neur\lab4neur\bin\Debug\lab4neur.exe.config
+C:\Users\Maks\source\repos\lab4neur\lab4neur\bin\Debug\lab4neur.exe
+C:\Users\Maks\source\repos\lab4neur\lab4neur\bin\Debug\lab4neur.pdb
+C:\Users\Maks\source\repos\lab4neur\lab4neur\obj\Debug\lab4neur.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\lab4neur\lab4neur\obj\Debug\lab4neur.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\lab4neur\lab4neur\obj\Debug\lab4neur.exe
+C:\Users\Maks\source\repos\lab4neur\lab4neur\obj\Debug\lab4neur.pdb
